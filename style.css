@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background: #fff;
+}
+
+#tetris-canvas {
+  background: #fff;
+  margin-left: 10px;
+  margin-top: 10px;
+  border: 10px solid rgb(184, 0, 1);
+  border-radius: 10px;
+}
